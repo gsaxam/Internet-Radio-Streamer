@@ -1,0 +1,26 @@
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\bin\Debug\RadioYuva.exe
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\bin\Debug\RadioYuva.pdb
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\bin\Debug\Bass.Net.dll
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\bin\Debug\Bass.Net.xml
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.Form1.resources
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.Properties.Resources.resources
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.csproj.GenerateResource.Cache
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.exe
+D:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.pdb
+d:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\bin\Debug\RadioYuva.exe.manifest
+d:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\bin\Debug\RadioYuva.application
+d:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.exe.manifest
+d:\Student Data\Documents\Visual Studio 2010\Projects\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.application
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.exe
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.pdb
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\bin\Debug\RadioYuva.exe.manifest
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\bin\Debug\RadioYuva.application
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\bin\Debug\RadioYuva.exe
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\bin\Debug\RadioYuva.pdb
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\bin\Debug\Bass.Net.xml
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.csprojResolveAssemblyReference.cache
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.Form1.resources
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.Properties.Resources.resources
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.csproj.GenerateResource.Cache
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.exe.manifest
+D:\Dropbox\Windows Apps\RadioYuva\RadioYuva\obj\x86\Debug\RadioYuva.application
